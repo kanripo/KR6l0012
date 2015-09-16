@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:00.601863
+#+DATE: 2015-08-30 20:50:03.121845
 #+TITLE: 鞞婆沙論
 #+PROPERTY: CBETA_ID T28n1547
 #+PROPERTY: ID KR6l0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1547
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0012_T_005-0447c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《鞞婆沙論》卷第五¶
+《鞞婆沙論》卷第五¶
 ¶
 阿羅漢尸陀槃尼撰¶
 符秦罽賓三藏僧伽跋澄譯¶
 
-17十八界處
-:PROPERTIES:
-:head: 十八界處第十七
-:END:
-¶
+十八界處第十七¶
 
 十八界者。眼界色界眼識界。耳界聲界耳識¶
 界。鼻界香界鼻識界。舌界味界舌識界。身界¶
