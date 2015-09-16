@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 鞞婆沙論
+#+DATE: 2015-08-30 20:50:01.250482
+#+PROPERTY: JUAN 0
