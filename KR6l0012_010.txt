@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:00.781439
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:24
 #+TITLE: 鞞婆沙論
 #+PROPERTY: CBETA_ID T28n1547
 #+PROPERTY: ID KR6l0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1547
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0012_T_010-0483b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《鞞婆沙論》卷第十¶
+《鞞婆沙論》卷第十¶
 ¶
 阿羅漢尸陀槃尼撰¶
 符秦罽賓三藏僧伽跋澄譯¶
 
-33四禪處
-:PROPERTIES:
-:head: 四禪處第三十三
-:END:
-¶
+** 四禪處第三十三¶
 
 四禪者。初禪二禪三禪四禪。問曰。四禪有何¶
 性。答曰。五陰是性。此是禪性已種相身所有¶
@@ -261,8 +256,7 @@
 立四枝。二禪染污喜難可斷難可破難可度。¶
 因彼故三禪立五枝。三禪非難可斷非難可破¶
 非難可度。以是故四禪立四枝。或曰。此欲界¶
-五欲可得。因彼故初禪立五枝。初禪無五¶
-欲可得。為彼故二禪立四枝。二禪五種喜相¶
+五欲可得。因彼故初禪立五枝。初禪無五欲可得。為彼故二禪立四枝。二禪五種喜相¶
 應愛可得。因彼故三禪立五枝。三禪無五種¶
 喜相應愛可得。因彼故四禪立四枝。以是故¶
 初禪三禪立五枝。二禪四禪立四枝。問曰。如¶
